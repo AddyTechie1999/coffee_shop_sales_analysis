@@ -109,9 +109,9 @@ Metrics shown:
 
 <h2>🧠 DAX Measures & Calculations Used</h2>
 
-* Total Sales = SUM(Sales)
-* Total Orders = COUNT(Order ID)
-* Total Quantity = SUM(Quantity)
+* Total Sales
+* Total Orders
+* Total Quantity
 * Month-over-Month Growth %
 * Previous Month Sales (using DATE functions)
 * Average Daily Sales
